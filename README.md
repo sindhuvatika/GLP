@@ -1,3 +1,5 @@
 # GLP - Gujarati Language Processor
 
-## POST - Part Of Speech Tagger
+- [x] POST - Part Of Speech Tagger
+- [ ] NGRAM
+- [ ] Language Models
