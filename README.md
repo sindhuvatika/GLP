@@ -4,3 +4,4 @@
 - [ ] N-Gram
 - [ ] Language Models
 - [ ] Transliterators
+- [ ] NER - Named Entity Recognition
